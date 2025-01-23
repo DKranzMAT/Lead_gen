@@ -1,0 +1,32 @@
+[contact-form-7 id="d35d322" title="Contact form 1"]
+
+<label>Your name:[text* text-862]</label>
+<br />
+<label>Your e-mail:[email* email-791]</label>
+<br />
+<label>Your phone number:[tel* tel-582]</label>
+<br />
+<label>Comments:[textarea textarea-398]</label>
+<br />
+[acceptance acceptance-94] Thanks! You've successfully opted in to receive updates from MAT Holdings Inc.[/acceptance]
+<br />
+[submit "Submit"]
+
+
+[contact-form-7 id="a9e0473" title="Contact Form V2"]
+
+<label> Your name:
+[text* text-758] </label>
+
+<label> Your email:
+[email* email-278] </label>
+
+<label> Your phone number:
+[tel tel-28] </label>
+
+<label> Your inquiry:
+[textarea* textarea-151] </label>
+
+[acceptance acceptance-93] Thanks! You've successfully opted in to receive updates from MAT Holdings Inc. [/acceptance]
+
+[submit "Submit"]
